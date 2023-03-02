@@ -18,5 +18,6 @@ To be successful in sending an email through G-Mail with SMTP, follow the steps 
   
   1. cd into the folder that has the code   
   2. type this into the terminal or command prompt   
-    a. python3 name_of_python_file.py -t <email_you_want_to_send_to> -l <email_you_are_sending_from_that_you_created_app_password> -p <app_password_you_created_earlier>      **WITHOUT THE <> AND REPLACE IT WITH CORRESPONDING INFO**  
+    a. python3 name_of_python_file.py -t <email_you_want_to_send_to> -l <email_you_are_sending_from_that_you_created_app_password> -p <app_password_you_created_earlier>      
+              **WITHOUT THE <> AND REPLACE IT WITH CORRESPONDING INFO**    
   3. If it successful, it will say email sent.   
